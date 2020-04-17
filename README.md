@@ -1,9 +1,9 @@
 # Exemplos de arquivos puro CSS
 
-*Avaliação
-*Card
-*Carousel
-*Checkbox
+* Avaliação
+* Card
+* Carousel
+* Checkbox
 *Collapse
 *Dropdow
 *faceboock-reaction
