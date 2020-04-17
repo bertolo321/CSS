@@ -4,16 +4,16 @@
 * Card
 * Carousel
 * Checkbox
-*Collapse
-*Dropdow
-*faceboock-reaction
-*Menu-mobile
-*Menu-vertical
-*Modal
-*Paginação
-*Preloaders
-*Tab
-*text-filter-background
-*Timeline
-*Tooltips
-*Veja-mais
+* Collapse
+* Dropdow
+* faceboock-reaction
+* Menu-mobile
+* Menu-vertical
+* Modal
+* Paginação
+* Preloaders
+* Tab
+* text-filter-background
+* Timeline
+* Tooltips
+* Veja-mais
